@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    margin: 0;
+}
+
+#clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#clock{
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(206, 206, 206);
+    width: 100%;
+}
